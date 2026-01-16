@@ -1,4 +1,4 @@
-# MiniLab 3 → Vital (FL Studio)
+# Arturia MiniLab 3 → Vital (FL Studio Controller Mapping)
 
 This repository provides a custom Arturia MiniLab 3 controller-script
 mapping for Vital in FL Studio.
